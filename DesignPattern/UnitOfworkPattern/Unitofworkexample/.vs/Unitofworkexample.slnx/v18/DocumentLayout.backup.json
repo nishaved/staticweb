@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\unitofworkexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\unitofworkexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\unitofworkexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\unitofworkexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\uow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\uow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|d:\\git\\designpattern\\unitofworkpattern\\unitofworkexample\\unitofworkexample\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC52A67-9505-4CDA-8336-3E184752C4F4}|Unitofworkexample\\Unitofworkexample.csproj|solutionrelative:unitofworkexample\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unitofworkexample",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Unitofworkexample.csproj",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Unitofworkexample.csproj",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Unitofworkexample.csproj",
+              "RelativeToolTip": "Unitofworkexample\\Unitofworkexample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T17:39:46.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Unitofworkexample\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAD4v60AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:28:45.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Unitofworkexample\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:27:21.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Unitofwork.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\UOW\\Unitofwork.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\UOW\\Unitofwork.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\UOW\\Unitofwork.cs",
+              "RelativeToolTip": "Unitofworkexample\\UOW\\Unitofwork.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:17:35.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unitofworkexample",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Unitofworkexample.csproj",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Unitofworkexample.csproj",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Unitofworkexample.csproj*",
+              "RelativeToolTip": "Unitofworkexample\\Unitofworkexample.csproj*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T13:23:48.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Unitofworkexample\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:25:05.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitofwork.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\UOW\\IUnitofwork.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\UOW\\IUnitofwork.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\UOW\\IUnitofwork.cs",
+              "RelativeToolTip": "Unitofworkexample\\UOW\\IUnitofwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:05:02.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Models\\Employee.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Models\\Employee.cs",
+              "RelativeToolTip": "Unitofworkexample\\Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:22:49.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Program.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Program.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Program.cs",
+              "RelativeToolTip": "Unitofworkexample\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:26:52.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Repository\\DepartmentRepository.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "Unitofworkexample\\Repository\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T16:55:10.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Unitofworkexample\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:24:06.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Unitofworkexample\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:17:23.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Repository\\IGenericRepository.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "Unitofworkexample\\Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:27:54.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Unitofworkexample\\Models\\Department.cs",
+              "ToolTip": "D:\\GIT\\DesignPattern\\UnitOfworkPattern\\Unitofworkexample\\Unitofworkexample\\Models\\Department.cs",
+              "RelativeToolTip": "Unitofworkexample\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:23:25.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

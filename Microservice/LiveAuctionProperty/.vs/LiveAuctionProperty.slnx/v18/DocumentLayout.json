@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\Microservice\\LiveAuctionProperty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34E2AE16-B06A-85F0-E82E-40A212FBC75C}|AuctionProject\\AuctionProject.csproj|d:\\git\\microservice\\liveauctionproperty\\auctionproject\\auctionproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{34E2AE16-B06A-85F0-E82E-40A212FBC75C}|AuctionProject\\AuctionProject.csproj|solutionrelative:auctionproject\\auctionproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuctionProject",
+              "DocumentMoniker": "D:\\GIT\\Microservice\\LiveAuctionProperty\\AuctionProject\\AuctionProject.csproj",
+              "RelativeDocumentMoniker": "AuctionProject\\AuctionProject.csproj",
+              "ToolTip": "D:\\GIT\\Microservice\\LiveAuctionProperty\\AuctionProject\\AuctionProject.csproj",
+              "RelativeToolTip": "AuctionProject\\AuctionProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T13:08:38.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
